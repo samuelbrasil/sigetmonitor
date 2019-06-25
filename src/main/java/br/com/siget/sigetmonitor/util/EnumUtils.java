@@ -2,7 +2,7 @@ package br.com.siget.sigetmonitor.util;
 
 import java.util.LinkedHashMap;
 
-import br.com.siget.sigetmonitor.api.model.ITiposEnumerados;
+import br.com.siget.sigetmonitor.api.enums.ITiposEnumerados;
 
 
 

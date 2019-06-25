@@ -1,4 +1,4 @@
-package br.com.siget.sigetmonitor.api.model;
+package br.com.siget.sigetmonitor.api.enums;
 
 import java.io.Serializable;
 import java.util.EnumSet;

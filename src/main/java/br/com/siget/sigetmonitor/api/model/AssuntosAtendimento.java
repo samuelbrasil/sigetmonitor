@@ -3,6 +3,8 @@ package br.com.siget.sigetmonitor.api.model;
 import java.io.Serializable;
 import java.util.Date;
 
+import br.com.siget.sigetmonitor.api.enums.ITiposEnumerados;
+
 public class AssuntosAtendimento implements Serializable{
 	
 	/**
